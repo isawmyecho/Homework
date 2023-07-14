@@ -5,9 +5,10 @@
 //5 9 2 3
 //8 4 2 4
 //17 -> такого числа в массиве нет
-Console.WriteLine("Enter the dimensions of the array: ");
-int m = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Enter the number of lines: ");
 int n = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Enter the number of columns: ");
+int m = Convert.ToInt32(Console.ReadLine());
 int[,] array = new int[m, n];
  
 for (int i = 0; i < array.GetLength(0); i++) 
@@ -23,8 +24,9 @@ for (int i = 0; i < array.GetLength(0); i++)
         Console.WriteLine();
 }
  
- Console.WriteLine("Enter element position: ");
+ Console.WriteLine("Enter element position a: ");
  int a = Convert.ToInt32(Console.ReadLine());
+ Console.WriteLine("Enter element position b: ");
  int b = Convert.ToInt32(Console.ReadLine());
  if (a>m && b>n)
  Console.WriteLine("This number is not in the array. ");
