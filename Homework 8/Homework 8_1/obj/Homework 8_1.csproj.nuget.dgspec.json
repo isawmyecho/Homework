@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Курсы Geekbrains\\C\\Homework\\Homework9\\Homework 9_3\\Homework 9_3.csproj": {}
+    "d:\\Курсы Geekbrains\\C\\Homework\\Homework 8\\Homework 8_1\\Homework 8_1.csproj": {}
   },
   "projects": {
-    "d:\\Курсы Geekbrains\\C\\Homework\\Homework9\\Homework 9_3\\Homework 9_3.csproj": {
+    "d:\\Курсы Geekbrains\\C\\Homework\\Homework 8\\Homework 8_1\\Homework 8_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Курсы Geekbrains\\C\\Homework\\Homework9\\Homework 9_3\\Homework 9_3.csproj",
-        "projectName": "Homework 9_3",
-        "projectPath": "d:\\Курсы Geekbrains\\C\\Homework\\Homework9\\Homework 9_3\\Homework 9_3.csproj",
+        "projectUniqueName": "d:\\Курсы Geekbrains\\C\\Homework\\Homework 8\\Homework 8_1\\Homework 8_1.csproj",
+        "projectName": "Homework 8_1",
+        "projectPath": "d:\\Курсы Geekbrains\\C\\Homework\\Homework 8\\Homework 8_1\\Homework 8_1.csproj",
         "packagesPath": "C:\\Users\\359const\\.nuget\\packages\\",
-        "outputPath": "d:\\Курсы Geekbrains\\C\\Homework\\Homework9\\Homework 9_3\\obj\\",
+        "outputPath": "d:\\Курсы Geekbrains\\C\\Homework\\Homework 8\\Homework 8_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\359const\\AppData\\Roaming\\NuGet\\NuGet.Config"
