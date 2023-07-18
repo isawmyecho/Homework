@@ -11,7 +11,7 @@
 Console.WriteLine($"\nEnter the size of the array:");
 int m = InputNumbers("Input m: ");
 int n = InputNumbers("Input n: ");
-int range = InputNumbers("Enter a range from 1 to ");
+int range = InputNumbers("Product of the first and second matrices");
 
 int[,] array = new int[m, n];
 CreateArray(array);
